@@ -8,3 +8,7 @@ hello nice to meet you
 
 hello Linux
 hello windowbranch
+
+
+def add(x,y):
+  return x+y
