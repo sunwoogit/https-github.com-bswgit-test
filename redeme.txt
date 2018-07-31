@@ -1,2 +1,6 @@
-hello gitpractice git
-\npractice git
+hello git
+practice git
+\n
+practice git
+hello python
+hello nice to meet you
